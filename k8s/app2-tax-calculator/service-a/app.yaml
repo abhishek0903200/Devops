@@ -19,6 +19,7 @@ spec:
            - name: TAX_SERVICE_URL
              value: "http://service-b:4000"
                
+               
           # env:
           #   - name: ENV_VALUE
           #     valueFrom:
